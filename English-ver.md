@@ -1,4 +1,4 @@
-##The Wisdom of the Crowd
+## The Wisdom of the Crowd
 
 ### The Estimate of the weight of an ox
 from **superforecasting**
