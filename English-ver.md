@@ -6,7 +6,7 @@ from **superforecasting**
 
 ### Guess-the-Number game
 from **superforecasting**
-Consider a guess-the-number game in which players must guess a number between 0 and 100. The person whose guess comes closest to two-thirds of the average guess of all contestants wins. That’s it. And imagine there is a prize: the reader who comes closest to the correct answer wins a pair of business-class tickets for a flight between London and New York.
+> Consider a guess-the-number game in which players must guess a number between 0 and 100. The person whose guess comes closest to two-thirds of the average guess of all contestants wins. That’s it. And imagine there is a prize: the reader who comes closest to the correct answer wins a pair of business-class tickets for a flight between London and New York.
 
 ### What could 'Good Judegment Project' reveal?
 from **superforecasting**
